@@ -1,0 +1,21 @@
+
+
+
+#sketch {
+	border: 10px solid gray;
+	height: 450px;
+	position: relative;
+	
+    
+	
+	
+}
+
+#tmp_canvas {
+	position: absolute;
+	left: 0px; right: 0;
+	bottom: 0; top: 0;
+	cursor: crosshair;
+	
+}
+
